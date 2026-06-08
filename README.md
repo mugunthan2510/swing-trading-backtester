@@ -5,7 +5,7 @@ Backtesting framework built using Python for evaluating trading strategies using
 ## Indicators
 
 - RSI
-- Bollinger Bands
+- PIVOT (CAMARILLA)
 - MACD
 
 ## Features
